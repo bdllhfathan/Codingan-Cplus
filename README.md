@@ -1,2 +1,2 @@
-# Codingan-C-
+# Codingan-Cplus
 Kumpulan codingan c++ fathan
